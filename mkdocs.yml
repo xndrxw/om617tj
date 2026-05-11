@@ -1,0 +1,48 @@
+site_name: OM617TJ Build Documentation
+site_description: Engineering documentation for the OM617-swapped Jeep Wrangler TJ
+site_author: Andrew Powell
+
+theme:
+  name: material
+
+nav:
+  - Home: README.md
+  - Engine:
+      - Overview: docs/engine/engine-overview.md
+      - Specifications: docs/engine/om617-specifications.md
+  - Turbo System:
+      - Overview: docs/turbo-system/turbo-overview.md
+  - Fuel System:
+      - Overview: docs/fuel-system/fuel-system-overview.md
+      - Filtration: docs/fuel-system/filtration.md
+  - Intercooler:
+      - Overview: docs/intercooler/intercooler-overview.md
+  - Electrical:
+      - Overview: docs/electrical/electrical-overview.md
+      - Power Distribution: docs/electrical/power-distribution.md
+      - Grounding System: docs/electrical/grounding-system.md
+  - Steering:
+      - Overview: docs/steering/steering-overview.md
+  - Brakes:
+      - Overview: docs/brakes/brakes-overview.md
+  - HVAC:
+      - Overview: docs/hvac/hvac-overview.md
+  - Lighting:
+      - Overview: docs/lighting/lighting-overview.md
+  - Communications:
+      - Overview: docs/communications/communications-overview.md
+  - Troubleshooting:
+      - Index: docs/troubleshooting/troubleshooting-index.md
+  - Revisions:
+      - Build Revisions: docs/revisions/build-revisions.md
+  - Maintenance:
+      - Maintenance Log: docs/maintenance/maintenance-log.md
+  - Specifications:
+      - Current Build Specs: docs/specifications/current-build-specs.md
+  - Parts:
+      - Part Numbers: parts/part-numbers.md
+      - Suppliers: parts/suppliers.md
+  - Logs:
+      - Temperature Log: logs/temperatures/temperature-log.md
+      - Boost Log: logs/boost/boost-log.md
+      - Failure Log: logs/failures/failure-log.md

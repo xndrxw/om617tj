@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# CAD backups
+*.f3d.backup*
+*.autosave*
+
+# Logs that should not be public
+private/
+secrets/
