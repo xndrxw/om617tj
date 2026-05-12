@@ -2,54 +2,49 @@
 
 A highly modified 2005 Jeep Wrangler TJ powered by a Mercedes OM617 turbo diesel engine.
 
-This repository serves as a complete engineering archive and build documentation platform for the vehicle.
+This repository is the public build record for the vehicle and now includes part-number references, supplier URLs, and component reference links alongside the subsystem documentation.
 
 ---
 
 ## Vehicle Overview
 
 ### Chassis
-
 - 2005 Jeep Wrangler TJ
 - Motobilt LJ Back Half Kit
 - MetalCloak Arched Fenders
-- Clayton Long Arm Suspension
-- 14-inch Travel King Coilovers
-- 37-inch Toyo Tires
-- Vision Manx Beadlock Wheels
+- Clayton long arm suspension
+- 14-inch Travel King coilovers
+- 37-inch Toyo tires
+- Vision Manx beadlock wheels
 
 ### Engine
-
-- Mercedes OM617 Turbo Diesel
-- Holset HE221W 7cm Turbocharger
-- 7.5mm BenzForce Injection Pump
-- Water-to-Air Intercooler
-- 3-inch Exhaust
-- Custom Snorkel
+- Mercedes OM617 turbo diesel
+- Holset HE221W 7cm turbocharger
+- 7.5mm BenzForce injection pump
+- Water-to-air intercooler
+- 3-inch exhaust
+- Custom snorkel
 
 ### Drivetrain
-
-- Novak AX15 Transmission
-- Dana 300 Transfer Case
-- OX Air Lockers
+- Novak AX15 transmission
+- Dana 300 transfer case
+- OX air lockers
 
 ### Electrical
-
-- Custom Power Distribution System
-- Dual AGM Batteries
-- Blue Sea Battery Selector
-- Premier Power Welder System
-- Littelfuse Circuit Protection
+- Custom power distribution system
+- Dual AGM batteries
+- Blue Sea battery selector
+- Premier Power Welder system
+- Littelfuse circuit protection
 
 ### Features
-
-- Dual Fuel System: diesel and waste oil
-- Hydro Assist Steering
-- Hydroboost Brakes
-- Onboard Air System
-- Extensive Lighting System
+- Dual-fuel system: diesel and waste oil
+- Hydro-assist steering
+- Hydroboost brakes
+- Onboard air system
+- Extensive lighting system
 - CB and handheld radio communications
-- Custom HVAC Controls
+- Custom HVAC controls
 
 ---
 
@@ -57,18 +52,26 @@ This repository serves as a complete engineering archive and build documentation
 
 | Section | Description |
 |---|---|
-| Engine | OM617 engine specifications and modifications |
-| Turbo System | Turbocharger setup and boost control |
-| Fuel System | Diesel and waste oil systems |
-| Electrical | Complete electrical documentation |
-| Cooling | Radiator and intercooler systems |
-| Suspension | Coilovers and axle geometry |
-| Steering | Hydro assist steering system |
+| Engine | OM617 engine specifications, torque references, and build notes |
+| Turbo System | Turbocharger setup and boost-control documentation |
+| Fuel System | Diesel and waste-oil routing, filtration, and service notes |
+| Electrical | Power distribution, grounding, and monitoring documentation |
+| Cooling | Intercooler system and related thermal-management notes |
+| Steering | Hydro-assist steering system documentation |
 | Brakes | Hydroboost and Wilwood setup |
-| HVAC | Custom air conditioning controls |
-| Communications | CB and radio systems |
+| HVAC | Custom air-conditioning and heater controls |
+| Communications | CB / handheld radio hardware and routing notes |
+| Parts | Part numbers, supplier links, and reference URLs |
 | Troubleshooting | Known issues and diagnostics |
 | Revisions | Build evolution and changes |
+
+---
+
+## Parts References
+
+- `parts/part-numbers.md` — known exact part numbers and product URLs
+- `parts/reference-urls.md` — broader component reference URLs where docs only pin a model family or subsystem
+- `parts/suppliers.md` — supplier and manufacturer homepages used across the build
 
 ---
 
@@ -81,6 +84,7 @@ This repository serves as a complete engineering archive and build documentation
 - Maintain diagrams and schematics
 - Archive fabrication processes
 - Record performance data
+- Keep purchasing / service references attached to the documented build
 
 ---
 
@@ -88,4 +92,4 @@ This repository serves as a complete engineering archive and build documentation
 
 Vehicle is actively under development.
 
-Additional documentation and diagrams are continuously being added.
+Documentation is being expanded as build details, part references, and service information are cleaned up and synchronized.

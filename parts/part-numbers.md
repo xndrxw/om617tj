@@ -1,10 +1,26 @@
-# Part Numbers
+# Part Numbers and Reference URLs
 
-| System | Part | Manufacturer | Part Number | Notes |
-|---|---|---|---|---|
-| Fuel | Primary fuel/water separator | Baldwin | BF1272-SPS | One per tank |
-| Fuel | Final fuel filter | Donaldson | P551313 | Final filter |
-| Oil | Engine oil filter | Baldwin | B2-HPG | Engine oil |
-| Brakes | Master cylinder | Wilwood | 260-8555 | Hydroboost setup |
-| Brakes | Proportioning valve | Wilwood | 260-11179 | 4444/30 |
-| Intercooler | Pump | Meziere | WP136S | Water-to-air system |
+This file tracks the known OM617TJ parts that are documented with a specific part number or model name and pairs them with a web reference URL.
+
+Use the Notes column to distinguish between:
+- exact product page
+- official family/category page when the repo/wiki does not yet pin the exact SKU
+- third-party reference page when no clean manufacturer page is available
+
+| System | Part | Manufacturer / Brand | Part Number / Model | Reference URL | Notes |
+|---|---|---|---|---|---|
+| Fuel | Primary fuel/water separator | Baldwin | BF1272-SPS | https://ph.baldwinfilters.com/baldwin/en/product/baldwin-spin-on-fuel-filters/bf1272-sps | Exact part page |
+| Fuel | Final fuel filter | Donaldson | P551313 | https://shop.donaldson.com/store/en-us/product/P551313/20730 | Exact part page |
+| Oil | Engine oil filter | Baldwin | B2-HPG | https://ph.baldwinfilters.com/baldwin/en/product/baldwin-spin-on-lube-filters/b2-hpg | Exact part page |
+| Turbo | Turbocharger | Holset / Benz Injection reference | HE221W 7cm | https://www.benzinjection.com/product-page/holset-he221-7cm2 | Third-party product reference matching the documented 7cm unit |
+| Intercooler | Remote electric pump | Meziere | WP136S | https://meziere.com/products/wp136s | Exact part page |
+| Brakes | Master cylinder | Wilwood | 260-8555 | https://www.wilwood.com/mastercylinders/mastercylinderprod?itemno=260-8555 | Exact part page |
+| Brakes | Combination proportioning valve | Wilwood | 260-11179 | https://www.wilwood.com/mastercylinders/mastercylinderprod?itemno=260-11179 | Exact part page |
+| Communications | CB radio | President Electronics | Walker III FCC | https://president-electronics.us/CB-Radios/AM-FM-transceivers/WALKER-III-FCC | Exact product page |
+| Communications | CB antenna | Wilson | T2000 | https://www.rightchannelradios.com/products/wilson-2000-trucker-cb-antenna-59 | Product reference page |
+| Communications | GMRS antenna | Midland | MXTA26 | https://midlandusa.com/products/mxta26-6db-gain-whip-nmo-antenna | Exact product page |
+| Lighting | Forward fog light pod | Diode Dynamics | SSC2 | https://www.diodedynamics.com/products/led-off-road-lights/led-pods/ssc2.html | Product family page |
+| Lighting | Angled side light pod | Diode Dynamics | SSC1 | https://www.diodedynamics.com/products/led-off-road-lights/led-pods/ssc1.html | Product family page |
+| Lighting | Bumper light pod / bar system | Diode Dynamics | SS5 | https://www.diodedynamics.com/products/led-off-road-lights/light-bars/ss5-led-light-bars.html | Product family page |
+| Lighting | Rear brake/running/turn light pod | Diode Dynamics | C1R | https://www.diodedynamics.com/stage-series-c1r-white-flood-standard-led-pod-one.html | Closest current product page found |
+| Lighting | Rear chase light bar | Xprite | chase light bar (exact model not yet pinned) | https://xpriteusa.com/collections/rear-chase-light-bars | Category page pending exact SKU |

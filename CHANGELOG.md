@@ -2,20 +2,15 @@
 
 ## Current
 
-Initial GitHub documentation structure created.
+### 2026-05-11
 
-Use this file to track major build revisions, system changes, and documentation updates.
-
----
-
-## Example Entry
-
-### YYYY-MM-DD
-
-#### Changed
-- Updated intercooler plumbing
-- Added new fuel filtration diagram
-- Rewired lighting circuit
+#### Documentation
+- Added web reference URLs for the currently known OM617TJ parts.
+- Expanded `parts/part-numbers.md` with exact product links where specific part numbers are documented.
+- Added `parts/reference-urls.md` for broader component and family-level references.
+- Expanded `parts/suppliers.md` with supplier and manufacturer homepages.
+- Updated `README.md` to point at the new parts reference docs.
 
 #### Notes
-- Include test results, problems found, or future changes needed.
+- Some components are still documented only at the family/category level because the exact SKU has not yet been pinned in the repo or wiki.
+- Those rows are marked accordingly so they can be tightened later without losing the current web reference trail.
