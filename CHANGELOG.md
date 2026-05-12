@@ -10,6 +10,8 @@
 - Added `parts/reference-urls.md` for broader component and family-level references.
 - Expanded `parts/suppliers.md` with supplier and manufacturer homepages.
 - Updated `README.md` to point at the new parts reference docs.
+- Rewrote the remaining subsystem documentation pages with cleaned wiki-derived technical content.
+- Replaced vague placeholder note sections in engine, fuel, electrical, intercooler, turbo, steering, brakes, lighting, HVAC, communications, and build-spec pages.
 
 #### Notes
 - Some components are still documented only at the family/category level because the exact SKU has not yet been pinned in the repo or wiki.
