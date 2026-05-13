@@ -2,6 +2,12 @@
 
 ## Current
 
+### 2026-05-14
+
+#### Documentation
+- Clarified that the current rear heat exchanger setup uses the fans paired with the documented Amazon core and that a shroud is installed on the assembly.
+- Noted that the current shroud/fan package is not final and that a different heat exchanger may be evaluated later.
+
 ### 2026-05-13
 
 #### Documentation

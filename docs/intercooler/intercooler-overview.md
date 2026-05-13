@@ -11,6 +11,7 @@ Water-to-air intercooler system designed around the packaging realities of the T
 - Air to Water Intercooler Aluminum Heat Exchanger Radiator universal 31" x9" x 2.25" + Fans
 - Installed heat exchanger reference URL: https://www.amazon.com/dp/B085Y56RWP?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17
 - Heat exchanger mounting location: rear mounted behind the Jeep cab
+- Current rear fan package: using the fans paired with the installed heat exchanger, with a shroud on the assembly
 - Meziere WP136S circulation pump
 - Intercooler plumbing with silicone hose
 - Planned / desired reservoir addition
@@ -40,5 +41,7 @@ Water-to-air intercooler system designed around the packaging realities of the T
 ## Current Upgrade Path Already Identified
 
 - Improve rear fan package
+- Replace or redesign the current shroud and fan package on the rear heat exchanger
 - Add intercooler reservoir volume
+- Revisit the rear heat exchanger choice if testing shows a better unit is warranted
 - Revisit water/meth only if charge-air control still needs help after the core system is optimized
