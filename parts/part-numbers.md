@@ -13,6 +13,7 @@ Use the Notes column to distinguish between:
 | Fuel | Final fuel filter | Donaldson | P551313 | https://shop.donaldson.com/store/en-us/product/P551313/20730 | Exact part page |
 | Oil | Engine oil filter | Baldwin | B2-HPG | https://ph.baldwinfilters.com/baldwin/en/product/baldwin-spin-on-lube-filters/b2-hpg | Exact part page |
 | Turbo | Turbocharger | Holset / Benz Injection reference | HE221W 7cm | https://www.benzinjection.com/product-page/holset-he221-7cm2 | Third-party product reference matching the documented 7cm unit |
+| Intercooler | Air-to-water intercooler core | FrozenBoost | Water to Air Intercooler - 11"x9.25"x3.5" - Bend I/O (Type 13) | https://www.frozenboost.com/air_water-ic/water-to-air-intercoolers-p-213.html | Exact installed product reference provided by Andrew |
 | Intercooler | Remote electric pump | Meziere | WP136S | https://meziere.com/products/wp136s | Exact part page |
 | Brakes | Master cylinder | Wilwood | 260-8555 | https://www.wilwood.com/mastercylinders/mastercylinderprod?itemno=260-8555 | Exact part page |
 | Brakes | Combination proportioning valve | Wilwood | 260-11179 | https://www.wilwood.com/mastercylinders/mastercylinderprod?itemno=260-11179 | Exact part page |

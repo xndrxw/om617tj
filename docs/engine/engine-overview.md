@@ -14,7 +14,7 @@ The OM617TJ is built around a Mercedes OM617 turbo diesel installed in a 2005 Je
 - Injection pump: 7.5mm BenzForce pump currently installed
 - Future fuel upgrade path: planned 8mm M-pump
 - Injectors: upgraded Bosch units
-- Intercooling: water-to-air system using a FrozenBoost core and Meziere WP136S pump
+- Intercooling: water-to-air system using a FrozenBoost Water to Air Intercooler - 11"x9.25"x3.5" - Bend I/O (Type 13) core and Meziere WP136S pump
 - Exhaust: 3-inch system with wrapped downpipe noted in the current build docs
 - Intake: custom snorkel and enclosed cone filter
 - Engine oil filter: Baldwin B2-HPG

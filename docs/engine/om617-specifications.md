@@ -17,7 +17,7 @@
 - Injection pump: 7.5mm currently installed
 - Planned pump upgrade: 8mm M-pump
 - Injectors: upgraded Bosch units
-- Intercooling: water-to-air with FrozenBoost core and Meziere WP136S pump
+- Intercooling: water-to-air with FrozenBoost Water to Air Intercooler - 11"x9.25"x3.5" - Bend I/O (Type 13) core and Meziere WP136S pump
 - Installed chassis: 2005 Jeep Wrangler TJ
 
 ## Rebuild / Service Notes Currently Backed by Wiki Content
