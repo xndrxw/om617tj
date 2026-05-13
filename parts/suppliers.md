@@ -7,6 +7,7 @@ This file tracks the known supplier and manufacturer URLs associated with the cu
 | Doomsday Diesel | OM617 Jeep adapter / serpentine parts | https://doomsdaydiesel.net/ | Supplier homepage |
 | BenzForce / Benz Injection | Injection pump / OM617 performance parts / turbo reference | https://www.benzinjection.com/ | Current docs mention BenzForce pump; Benz Injection currently provides the HE221W reference page used in this repo |
 | FrozenBoost | Intercooler components | https://www.frozenboost.com/ | Supplier homepage; installed OM617TJ core is the Water to Air Intercooler - 11"x9.25"x3.5" - Bend I/O (Type 13): https://www.frozenboost.com/air_water-ic/water-to-air-intercoolers-p-213.html |
+| Amazon | Marketplace source for installed heat exchanger | https://www.amazon.com/ | Installed OM617TJ heat exchanger reference: Air to Water Intercooler Aluminum Heat Exchanger Radiator universal 31" x9" x 2.25" + Fans -> https://www.amazon.com/dp/B085Y56RWP?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17 |
 | Summit Racing | General automotive parts | https://www.summitracing.com/ | Broad parts source |
 | McMaster-Carr | Hardware / fittings | https://www.mcmaster.com/ | Broad hardware source |
 | Baldwin Filters | Fuel and oil filters | https://www.baldwinfilters.com/ | Manufacturer homepage |

@@ -6,6 +6,7 @@
 
 #### Documentation
 - Added the exact installed FrozenBoost air-to-water intercooler core reference URL provided by Andrew.
+- Added the exact installed air-to-water heat exchanger reference URL provided by Andrew.
 - Updated intercooler and engine docs to name the installed FrozenBoost Type 13 core instead of only a generic FrozenBoost reference.
 
 ### 2026-05-11

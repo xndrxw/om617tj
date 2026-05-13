@@ -8,7 +8,8 @@ Water-to-air intercooler system designed around the packaging realities of the T
 
 - FrozenBoost Water to Air Intercooler - 11"x9.25"x3.5" - Bend I/O (Type 13)
 - Installed core reference URL: https://www.frozenboost.com/air_water-ic/water-to-air-intercoolers-p-213.html
-- Rear-mounted heat exchanger
+- Air to Water Intercooler Aluminum Heat Exchanger Radiator universal 31" x9" x 2.25" + Fans
+- Installed heat exchanger reference URL: https://www.amazon.com/dp/B085Y56RWP?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17
 - Meziere WP136S circulation pump
 - Intercooler plumbing with silicone hose
 - Planned / desired reservoir addition
