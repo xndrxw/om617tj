@@ -10,6 +10,7 @@ Water-to-air intercooler system designed around the packaging realities of the T
 - Installed core reference URL: https://www.frozenboost.com/air_water-ic/water-to-air-intercoolers-p-213.html
 - Air to Water Intercooler Aluminum Heat Exchanger Radiator universal 31" x9" x 2.25" + Fans
 - Installed heat exchanger reference URL: https://www.amazon.com/dp/B085Y56RWP?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17
+- Heat exchanger mounting location: rear mounted behind the Jeep cab
 - Meziere WP136S circulation pump
 - Intercooler plumbing with silicone hose
 - Planned / desired reservoir addition
